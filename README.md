@@ -1,2 +1,2 @@
 # Audit-Management
-Final Project for RSET
+Final Project for Rajagiri School of Engineering and Technology
